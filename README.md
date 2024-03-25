@@ -14,18 +14,36 @@
 2. Повременная система оплаты труда
    - **простая повременная СОТ**
    - **повременно-премиальная СОТ**
-3. Смешанная система оплаты труда
+   - **Gantt task and bonus system**
+   - **Emerson's efficiency system**
+3. Смешанная система оплаты труда и системы на основе распределения
    - **система на основе коэффициента трудового участия**
    - **система плавающих окладов**
    - комиссионная система оплаты труда
    - дилерский механизм
+   - Lay system
+   - Sharecropping
+   - 
 
 **Косвенно-сдельная СОТ** - система оплаты труда вспомогательных рабочих для сдельной оплаты труда.  
 wage = f(product)
 
-**Простая повременная СОТ** - wage = f(time)
-**Повременно-премиальная СОТ** - wage = f(time) + f(product/quality/achievement)
+**Простая повременная СОТ** - wage = f(time)  
+**Повременно-премиальная СОТ** - wage = f(time) + f(product/quality/achievement)  
+**Differential time rate** : According to this method, different hourly rates are fixed for different levels of efficiency.
 
-**Система на основе коэффициента трудового участия** - f(product cumulative)
-**Система плавающих окладов** - f(productivity/KPI)
 
+**Система на основе коэффициента трудового участия** - f(product cumulative)  
+**Система плавающих окладов** - f(productivity/KPI)  
+**Gantt task and bonus system**: the system consists of paying a worker on time basis if he does not attain the standard and on piece basis (high rate) if he does.  
+**Emerson's efficiency system**: Under this system minimum time wages are guaranteed, but beyond a certain efficiency level, bonus in addition to minimum day wages is given.
+
+## Приведение культуры работы ИТР к культуре работы сдельных сотрудников
+
+Тезисы:
+
+- К инженерно-техническим работникам (ИТР) здесь я отношу - программисты (фронтенд-, бэкенд-, БД-, ETL-), системные аналитики, тестировщики, инженеры внедрения, devops разработчики, бизнес-аналитики, технические руководители проектов, бизнес-руководители проектов, no code разработчики.
+- Основной продуктивной функцией ИТР являются знания, внимание, острота мышления, психическая энергия.
+- Качество предоставляемой работодателю ИТРаботником основной продуктивной функции должно быть взаимосвязано с уровнем заработной платы работника - для дисциплины труда сотрудника, для формирования продуктивной культуры.
+- В работе ИТР необходимо разделять офисную работу и дистанционную работу.
+- 
