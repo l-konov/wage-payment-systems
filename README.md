@@ -25,7 +25,7 @@
    - Sharecropping
    - 
 
-**Косвенно-сдельная СОТ** - система оплаты труда вспомогательных рабочих для сдельной оплаты труда.  
+**[Косвенно-сдельная СОТ](https://kadrovik-otchet.ru/trudovoe-pravo/zarplata/sistemy-oplata-truda/kosvenno-sdelnaya.html)** - система оплаты труда вспомогательных рабочих для сдельной оплаты труда.  
 wage = f(product)
 
 **Простая повременная СОТ** - wage = f(time)  
